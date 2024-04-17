@@ -1,0 +1,9 @@
+html  {
+  background-color:rgb(136, 143, 172);
+  color: rgba(26, 27, 29, 0.973);
+  scroll-behavior: smooth;
+}
+
+img{
+  max-width: 100%;
+}
