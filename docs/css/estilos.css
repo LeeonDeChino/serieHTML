@@ -1,8 +1,8 @@
 :root{
-  --bgColor: rgb(136, 143, 172);
-  --bgSecondaryColor: rgb(40, 40, 41);
-  --primaryColor: rgba(26, 27, 29, 0.973);
-  --secondaryColor: rgba(247, 249, 253, 0.973);
+  --bgColor: rgb(68, 3, 3);
+  --bgSecondaryColor: rgb(51, 49, 49);
+  --primaryColor: rgba(236, 236, 236, 0.973);
+  --secondaryColor: rgba(255, 255, 255, 0.973);
   --primaryFont: "Raleway", sans-serif;
   --secondaryFont: "Bitter", serif;
   --linkColor: rgb(131, 253, 161);
@@ -135,7 +135,7 @@ a:hover {
 }
 
 .bg-purple{
-  background-color: rgb(211, 176, 245);
+  background-color: rgb(255, 127, 53);
 }
 
 .bg-title{
