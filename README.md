@@ -1,5 +1,5 @@
-# Práctica 12
+# Leonardo Ramírez Gutiérrez
 
-**Nombre: Leonardo Ramírez Gutiérrez**
+## Práctica 12
 
-[Enlace a la práctica](https://leeondechino.github.io/serieHTML/)
+[Enlace al repositorio](https://leeondechino.github.io/serieHTML/)
